@@ -1,33 +1,52 @@
+header {
+	background-image: url(../resources/pexels-pixabay-60561.jpeg);
+	background-size: cover;
+}
 h1 {
-    background-color: lightgray ;
-    color:#2F86A6 ;
-    font-size: 30px;
-    font-family:'Times New Roman', Times, serif ;
-    font-style: normal;
-    font-weight: bold;
-    letter-spacing: 0.25em;
-    line-height: 26px;
-    text-align: center;
+	background-color: lightgray;
+	color: #2f86a6;
+	font-size: 28px;
+	font-family: "Times New Roman", Times, serif;
+	font-style: normal;
+	font-weight: bold;
+	letter-spacing: 0.25em;
+	line-height: 26px;
+	text-align: center;
 }
 h2 {
-    background-color: lightgray ;
-    color:#2F86A6 ;
-    font-size: 20px;
-    font-family: 'Times New Roman', Times, serif;
-    font-style: normal;
-    font-weight: bold;
-    letter-spacing: 00.25em;
-    line-height: 26px;
+	background-color: lightgray;
+	color: #2f86a6;
+	font-size: 20px;
+	font-family: "Times New Roman", Times, serif;
+	font-style: normal;
+	font-weight: bold;
+	letter-spacing: 00.25em;
+	line-height: 26px;
+}
+.seccion datos {
+	font-size: 20px;
+	line-height: 15px;
 }
 span {
-    font-weight: bold;
-    font-style: italic;
+	font-weight: bold;
+	font-style: italic;
+	line-height: 30px;
 }
-footer{
-    background-color:#2F86A6 ;
-    color: white;
-    font-size: 25px;
-    font-family: 'Times New Roman', Times, serif;
-    font-style: normal;
-    text-align: center;
+.fechas {
+	font-size: 17px;
+	font-weight: bold;
+	font-style: normal;
+	line-height: 30px;
+}
+.parrafo {
+	text-indent: 85px;
+	line-height: 0px;
+}
+.footer {
+	background-color: #2f86a6;
+	color: white;
+	font-size: 25px;
+	font-family: "Times New Roman", Times, serif;
+	font-style: normal;
+	text-align: center;
 }
